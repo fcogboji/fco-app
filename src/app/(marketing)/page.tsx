@@ -53,13 +53,13 @@ export default function Home() {
       {/* Platforms */}
       <section id="platforms" className="p-12">
         <h2 className="text-4xl font-bold mb-8">All platforms</h2>
-        <p>Twitter/X, Instagram, LinkedIn, Facebook, TikTok, YouTube, Bluesky, Threads, Pinterest</p>
+        <p>Twitter, Instagram, LinkedIn, Facebook, TikTok, YouTube, Bluesky, Threads, Pinterest</p>
       </section>
 
       {/* Reviews */}
       <section id="reviews" className="p-12">
         <h2 className="text-4xl font-bold mb-8">Loved by 6606 small businesses</h2>
-        <blockquote className="italic">"PostBridge saved me 3+ hours a week! It&#39;s a game changer!"</blockquote>
+        <blockquote className="italic">&quot;PostBridge saved me 3+ hours a week! It&#39;s a game changer&quot;</blockquote>
       </section>
 
       {/* FAQ */}
