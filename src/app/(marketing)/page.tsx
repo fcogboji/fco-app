@@ -59,7 +59,7 @@ export default function Home() {
       {/* Reviews */}
       <section id="reviews" className="p-12">
         <h2 className="text-4xl font-bold mb-8">Loved by 6606 small businesses</h2>
-        <blockquote className="italic">"PostBridge saved me 3+ hours a week! It's a game changer!"</blockquote>
+        <blockquote className="italic">"PostBridge saved me 3+ hours a week! It&#39;s a game changer!"</blockquote>
       </section>
 
       {/* FAQ */}

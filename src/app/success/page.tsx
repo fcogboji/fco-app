@@ -3,6 +3,7 @@
 import { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import confetti from 'canvas-confetti';
+import { Link } from 'lucide-react';
 
 export default function SuccessPage() {
   useEffect(() => {
@@ -37,12 +38,12 @@ export default function SuccessPage() {
         Thank you for subscribing. You now have access to premium features.
       </p>
 
-      <a
+      <Link
         href="/"
         className="mt-4 inline-block bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-900 transition"
       >
         Go to Dashboard
-      </a>
+      </Link>
     </main>
   );
 }

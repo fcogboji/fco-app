@@ -59,7 +59,7 @@ export default function PricingSection() {
   return (
     <section className="w-full px-6 py-24 text-center bg-white">
       <h2 className="text-4xl font-bold mb-4">Simple pricing for everyone</h2>
-      <p className="text-gray-600 mb-16">Start for free, upgrade when you're ready.</p>
+      <p className="text-gray-600 mb-16">Start for free, upgrade when you&#39;re ready.</p>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
         {PLANS.map((plan) => (
